@@ -72,7 +72,7 @@ const books = [
 - Ordina l’array authors in base all’età, senza creare un nuovo array.
 (se areAuthorsAdult è true, ordina in ordine crescente, altrimenti in ordine decrescente)
 
-## Snack 3 - Calcola l’età media
+## Snack 4 - Calcola l’età media
 
 - Creare un array (ages) che contiene le età degli autori dei libri.
 - Calcola la somma delle età (agesSum) usando reduce.
